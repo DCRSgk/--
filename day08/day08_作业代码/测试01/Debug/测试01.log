@@ -1,5 +1,1 @@
-﻿  测试01.cpp
-C:\Users\GK\Desktop\code\code-learning\day08\day08_作业代码\测试01\测试01.cpp(14,28): warning C4101: “result”: 未引用的局部变量
-C:\Users\GK\Desktop\code\code-learning\day08\day08_作业代码\测试01\测试01.cpp(14,7): warning C4101: “num1_sign”: 未引用的局部变量
-C:\Users\GK\Desktop\code\code-learning\day08\day08_作业代码\测试01\测试01.cpp(14,18): warning C4101: “num2sign”: 未引用的局部变量
-  测试01.vcxproj -> C:\Users\GK\Desktop\code\code-learning\day08\day08_作业代码\Debug\测试01.exe
+﻿

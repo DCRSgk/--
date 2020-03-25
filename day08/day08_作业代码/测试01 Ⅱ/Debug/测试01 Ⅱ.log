@@ -1,5 +1,1 @@
-﻿  1.cpp
-C:\Users\GK\Desktop\code\code-learning\day08\day08_作业代码\测试01 Ⅱ\1.cpp(41,6): error C2086: “int i”: 重定义
-C:\Users\GK\Desktop\code\code-learning\day08\day08_作业代码\测试01 Ⅱ\1.cpp(22): message : 参见“i”的声明
-C:\Users\GK\Desktop\code\code-learning\day08\day08_作业代码\测试01 Ⅱ\1.cpp(95,1): error C2059: 语法错误:“}”
-C:\Users\GK\Desktop\code\code-learning\day08\day08_作业代码\测试01 Ⅱ\1.cpp(95,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
+﻿
