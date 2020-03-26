@@ -38,9 +38,19 @@
 
 - 递归方法
 
+  - 思路：
+  
+    - 
+  
   - ```c++
-    
+    #include<iostream>
+    #include<cstdio>
+    using namespace std;4
+    int Factorial(int n);
+    int main()
+    {
+        
     ```
-
+  
   - 
 

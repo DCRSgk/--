@@ -87,6 +87,57 @@ int main() {
 
 ### 3 输入年月日，输出该日期是星期几
 
+- 优化修改后：
+
+  - 集成判断程序
+
+  - 优化计算
+
+  - ```c++
+    #include<iostream>
+    #include<cstdio>
+    #include<cmath>
+    using namespace std;
+    int data_sum(int year,int month,int day);
+    int main()
+    {
+        int year,month,day;
+        scanf_s("%d %d %d", &year, &month, &day);
+        	switch (date_sum(year,month,day) % 7){
+    	case 0:printf("%d年%d月%d日是星期一", year, month, day); break;
+    	case 1:printf("%d年%d月%d日是星期二", year, month, day); break;
+    	case 2:printf("%d年%d月%d日是星期三", year, month, day); break;
+    	case 3:printf("%d年%d月%d日是星期四", year, month, day); break;
+    	case 4:printf("%d年%d月%d日是星期五", year, month, day); break;
+    	case 5:printf("%d年%d月%d日是星期六", year, month, day); break;
+    	case 6:printf("%d年%d月%d日是星期天", year, month, day); break;
+    	}  
+    }
+    int data_sum(int year,int month,int day)
+    {
+        int cnt;
+        int every_month[] = { --1;31,28,31,30,31,30,31,31,30,31,30,31 };
+       	for(int i=1;i<=year;i++)
+        {
+            cnt+=(year % 4 == 0 && year % 100 == 0 || year % 400 == 0);
+        }
+        if(mon>1)
+        {
+            for(int i=1;i<mon;i++)
+            {
+                cnt+=every_month[i];
+            }
+            cnt+=day;
+        }else{
+            cnt +=day;
+        }
+        cnt += 365 * year - 1;
+    	return cnt;
+    }
+    ```
+
+  - 
+
 - ```c++
   #include<iostream>  //写了个函数求当前日期到公元0年1月1号是多少天
   #include<cstdio>	//将天数和7取余 得到是几就可以反推出当天是星期几
@@ -124,10 +175,9 @@ int main() {
   	}
   	date_sum += 365 * year - 1;
   	return date_sum;
-  
   }
   ```
-
+  
 - 
 
 - ![image-20200319215811221](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200319215811221.png)
