@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "头插法", "头插法\头�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "尾插法", "尾插法\尾插法.vcxproj", "{E8989316-6D00-42EE-A220-622F9B31EF36}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表删除", "链表删除\链表删除.vcxproj", "{5111ED9C-F682-4124-BF25-386A2696CA4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{E8989316-6D00-42EE-A220-622F9B31EF36}.Release|x64.Build.0 = Release|x64
 		{E8989316-6D00-42EE-A220-622F9B31EF36}.Release|x86.ActiveCfg = Release|Win32
 		{E8989316-6D00-42EE-A220-622F9B31EF36}.Release|x86.Build.0 = Release|Win32
+		{5111ED9C-F682-4124-BF25-386A2696CA4B}.Debug|x64.ActiveCfg = Debug|x64
+		{5111ED9C-F682-4124-BF25-386A2696CA4B}.Debug|x64.Build.0 = Debug|x64
+		{5111ED9C-F682-4124-BF25-386A2696CA4B}.Debug|x86.ActiveCfg = Debug|Win32
+		{5111ED9C-F682-4124-BF25-386A2696CA4B}.Debug|x86.Build.0 = Debug|Win32
+		{5111ED9C-F682-4124-BF25-386A2696CA4B}.Release|x64.ActiveCfg = Release|x64
+		{5111ED9C-F682-4124-BF25-386A2696CA4B}.Release|x64.Build.0 = Release|x64
+		{5111ED9C-F682-4124-BF25-386A2696CA4B}.Release|x86.ActiveCfg = Release|Win32
+		{5111ED9C-F682-4124-BF25-386A2696CA4B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,2 +1,4 @@
 ﻿  main.cpp
+C:\Users\GK\Desktop\code\code-learning\day10\链表相关\尾插法\main.cpp(12,25): warning C4474: scanf_s: 格式字符串中传递的参数太多
+C:\Users\GK\Desktop\code\code-learning\day10\链表相关\尾插法\main.cpp(12,25): message : 占位符和其参数预计 4 可变参数，但提供的却是 5 参数
   尾插法.vcxproj -> C:\Users\GK\Desktop\code\code-learning\day10\链表相关\Debug\尾插法.exe

@@ -6,10 +6,10 @@ using namespace std;
 typedef struct student {
 	int num; //学号
 	char name[20]; 
-	int cham;
-	int biology;
-	int phy;
-	int score;//总成绩
+	float cham;
+	float biology;
+	float phy;
+	float score;//总成绩
 	struct student* pNext; //链表指针
 }Student_t, * pStudent_t;
 void ListTailInSert(pStudent_t* pp_head, Student_t** pp_tail, int val); //尾插法

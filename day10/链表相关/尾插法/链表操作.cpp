@@ -47,12 +47,14 @@ void numSert(pStudent_t* ppHead, Student_t** ppTail, Student_t val) //头插法实现
 }
 void ListPrint(pStudent_t pHead) //依次打印
 {
-	while (pHead != NULL)
+	pStudent_t	p = phead;
+	while (p != NULL)
 	{
-		printf("%4d %s %4d %4d %4d %4d\n", pHead->num, pHead->name, pHead->cham,
-			pHead->biology, pHead->phy, pHead->score);
+
+		printf("%4d %s %4f %4f %4f %4f\n", p.num, p.name, p.cham,
+			p.biology, p.phy, p.score);
 		cout << "-------------------------------------------------------------------" << endl;
-		pHead = pHead->pNext;
+		p = p->pNext;
 	}
 }
 void ListTailInSert(pStudent_t* ppHead, Student_t** ppTail, int val)
