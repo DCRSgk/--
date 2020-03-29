@@ -83,8 +83,6 @@ int partition(int* arr, int left, int right)
 	}
 	swap(arr[k], arr[right]);
 	return k;
-
-
 }
 void arrQuickSert(int* arr,int left, int right)
 {
@@ -95,27 +93,4 @@ void arrQuickSert(int* arr,int left, int right)
 		arrQuickSert(arr, left,pivot - 1);
 		arrQuickSert(arr, pivot - 1, right);
 	}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-}
+} 

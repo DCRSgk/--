@@ -1,12 +1,3 @@
-﻿  main.cpp
-C:\Users\GK\Desktop\code\code-learning\day12\sort\选择排序\main.cpp(10,12): error C2148: 数组的总大小不得超过 0x7fffffff 字节
-C:\Users\GK\Desktop\code\code-learning\day12\sort\选择排序\main.cpp(26,35): warning C4305: “参数”: 从“const __int64”到“size_t”截断
-C:\Users\GK\Desktop\code\code-learning\day12\sort\选择排序\main.cpp(26,13): warning C4309: “参数”: 截断常量值
-C:\Users\GK\Desktop\code\code-learning\day12\sort\选择排序\main.cpp(31,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“time_t”
-C:\Users\GK\Desktop\code\code-learning\day12\sort\选择排序\main.cpp(31,9): message : 请考虑在格式字符串中使用“%lld”
-C:\Users\GK\Desktop\code\code-learning\day12\sort\选择排序\main.cpp(31,9): message : 请考虑在格式字符串中使用“%I64d”
-  sort.cpp
-C:\Users\GK\Desktop\code\code-learning\day12\sort\选择排序\sort.cpp(50,19): warning C4305: “=”: 从“__int64”到“int”截断
-C:\Users\GK\Desktop\code\code-learning\day12\sort\选择排序\sort.cpp(50,15): warning C4309: “=”: 截断常量值
+﻿  sort.cpp
 C:\Users\GK\Desktop\code\code-learning\day12\sort\选择排序\sort.cpp(49,6): warning C4101: “i”: 未引用的局部变量
-  正在生成代码...
+  选择排序.vcxproj -> C:\Users\GK\Desktop\code\code-learning\day12\sort\Debug\选择排序.exe

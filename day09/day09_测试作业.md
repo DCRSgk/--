@@ -50,7 +50,25 @@
     int main()
     {
         
+    
+  }
+    int route(int x,int y)
+    {
+        if(x==0&&y==0)
+        {
+            return 0;
+        }
+        else if(x==0||y==0)
+        {
+            return 1;
+        }
+        else
+        {
+            return(route((x-1),y),route(x,(y-1));
+        }
+    }
+        
     ```
-  
+    
   - 
 
