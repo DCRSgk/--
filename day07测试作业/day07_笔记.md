@@ -22,7 +22,7 @@
   >
   > - 数组的使用
   >
-  >   ![image-20200323094510121](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200323094510121.png)
+  >   ![image-20200323094510121](../assess/image-20200323094510121.png)
   >
   > - 数组的传递
   >
@@ -35,8 +35,8 @@
   >
   > - 二维数组
   >
-  >   - ![image-20200323103102700](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200323103102700.png)
-  >   - ![image-20200323110525464](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200323110525464.png)
+  >   - ![image-20200323103102700](../assess/image-20200323103102700.png)
+  >   - ![image-20200323110525464](../assess/image-20200323110525464.png)
   >   - 二维数组本质为一个一维数组，传递时指针的偏移根据基类型决定
 
 - ##### 字符串
@@ -44,8 +44,8 @@
   > - char类型的字符数组 以\\0结尾（内存中的0）
   >- 字符串字面值常量存放在代码段而不是数据段
   > - `scanf("%s",str)`=> 读取以一个单词，遇到空格结束。
-  >- ![image-20200323111851398](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200323111851398.png)
-  > - ![image-20200323112329593](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200323112329593.png)
+  >- ![image-20200323111851398](../assess/image-20200323111851398.png)
+  > - ![image-20200323112329593](../assess/image-20200323112329593.png)
   >
 ### Ep02指针
 
@@ -159,7 +159,7 @@
   >
   >   - 
   >
-  >   -  ![image-20200323151141576](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200323151141576.png)
+  >   -  ![image-20200323151141576](../assess/image-20200323151141576.png)
 
 - void型指针
 
@@ -182,7 +182,7 @@
   >   }
   >   ```
   >
-  > - ![image-20200323161037397](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200323161037397.png)
+  > - ![image-20200323161037397](../assess/image-20200323161037397.png)
   >
   > - 栈空间和堆空间的差异实例
   >
@@ -215,7 +215,7 @@
 
 - 用C实现vector
 
-  > ![image-20200323163050492](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200323163050492.png)
+  > ![image-20200323163050492](../assess/image-20200323163050492.png)
   >
   > - ```c++
   >   #include<cstdio>

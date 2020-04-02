@@ -96,7 +96,7 @@
   
   ```
 
-- ![image-20200321201811726](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200321201811726.png)
+- ![image-20200321201811726](../assess/image-20200321201811726.png)
 
 ### 3输入一行字符串（单词和若干空格），输出该行单词（每个单词一行）
 
@@ -145,7 +145,7 @@
   }
   ```
 
-- ![image-20200321203459216](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200321203459216.png)
+- ![image-20200321203459216](../assess/image-20200321203459216.png)
 
 
 

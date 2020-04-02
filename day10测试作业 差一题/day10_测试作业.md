@@ -16,7 +16,7 @@
 
 学号按照顺序排了但是出来之后成绩全是0000，一定是我打印函数出问题了。
 
-![image-20200327001541196](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200327001541196.png)
+![image-20200327001541196](../assess/image-20200327001541196.png)
 
 ### (2) 输出每门课程最高分的学生的信息
 

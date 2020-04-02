@@ -1,0 +1,8 @@
+﻿  list.cpp
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(52,83): warning C4474: fprintf: 格式字符串中传递的参数太多
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(52,83): message : 占位符和其参数预计 2 可变参数，但提供的却是 3 参数
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(37,6): warning C4101: “i”: 未引用的局部变量
+  main.cpp
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\main.cpp(4,6): warning C4101: “i”: 未引用的局部变量
+  正在生成代码...
+  学生管理系统.vcxproj -> C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\Debug\学生管理系统.exe

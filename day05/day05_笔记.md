@@ -69,7 +69,7 @@
   - 在C里不检查数组越界
   - 拷贝时候只拷贝首地址（数组指针）
   - 数组的数组
-    - 二维数组![image-20200320102623026](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200320102623026.png)
+    - 二维数组![image-20200320102623026](../assess/image-20200320102623026.png)
 
 ### Ep02 循环
 
@@ -146,7 +146,7 @@
   >
   > - 数组的数组  sizeof之后为为a*b
   >
-  > - <img src="C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200320144921865.png" alt="image-20200320144921865" style="zoom:50%;" />
+  > - <img src="../assess/image-20200320144921865.png" alt="image-20200320144921865" style="zoom:50%;" />
   >
   > - 内存中也行线性储存的
   >
@@ -163,13 +163,13 @@
   >
   > - 数组指针：
   >
-  >   ![image-20200320145818227](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200320145818227.png)
+  >   ![image-20200320145818227](../assess/image-20200320145818227.png)
 
 - ##### 字符数组使用方法
 
   > - 存储字符串
   >
-  > - ![image-20200320155822363](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200320155822363.png)
+  > - ![image-20200320155822363](../assess/image-20200320155822363.png)
   >
   > - scanf 读入的时候 
   >
@@ -217,7 +217,7 @@
 
 - ##### str等字符串系列函数的使用
 
-  > - ![image-20200320162426812](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200320162426812.png)
+  > - ![image-20200320162426812](../assess/image-20200320162426812.png)
   >
   > - srtlen( ) //求长度
   >

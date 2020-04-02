@@ -1,0 +1,4 @@
+﻿  01main.cpp
+C:\Users\GK\Desktop\code\code-learning\day15\day15_作业代码\测试_01\01main.cpp(26,6): warning C4102: “error”: 未引用的标签
+C:\Users\GK\Desktop\code\code-learning\day15\day15_作业代码\测试_01\01main.cpp(9,9): warning C4101: “ret”: 未引用的局部变量
+  测试_01.vcxproj -> C:\Users\GK\Desktop\code\code-learning\day15\day15_作业代码\Debug\测试_01.exe

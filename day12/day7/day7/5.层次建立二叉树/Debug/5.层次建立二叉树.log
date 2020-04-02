@@ -1,0 +1,6 @@
+﻿  tree.c
+  main.c
+e:\code_30\day7\5.层次建立二叉树\main.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+          c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+  正在生成代码...
+  5.层次建立二叉树.vcxproj -> E:\CODE_30\day7\Debug\5.层次建立二叉树.exe

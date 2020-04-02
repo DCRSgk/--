@@ -1,0 +1,5 @@
+﻿  sort.c
+  main.c
+e:\code_30\day7\6.排序\main.c(14): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  6.排序.vcxproj -> E:\CODE_30\day7\Debug\6.排序.exe

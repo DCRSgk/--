@@ -5,7 +5,7 @@
 - long           4位
 - long long  8位
 
-![image-20200317225018734](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200317225018734.png)
+![image-20200317225018734](../assess/image-20200317225018734.png)
 
 ```c++
 #include<stdio.h>
@@ -21,14 +21,14 @@ int main() {
 ## 2.int a = -1234, b = 2345，根据a和b的首地址，说出a和b所占据的内存空间各个字节的内存数据
 
 - a和b所占据的内存空间
-  - a占据的内存空间：![image-20200317230228142](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200317230228142.png)
+  - a占据的内存空间：![image-20200317230228142](../assess/image-20200317230228142.png)
     - 由于-1234为负数，计算机通过补码的方式储存负数
     - 1234源码为   0000\\0000\\0000\\0000\\0000\\0100\\1101\\0010
     - 对源码进行取反+1 得到对应的补码为
     - -1234补码为 1111 \\1111\\1111\\1111\\1111\\1011\\0010\\1110
     - 换算成十六进制每8位组成一个字节的数据为：ff \\ff \\fb\\2e
     - 换成小端储存有：2e\\fb\\ff\\ff 
-  - b占据的内存空间：![image-20200317230247118](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200317230247118.png)
+  - b占据的内存空间：![image-20200317230247118](../assess/image-20200317230247118.png)
     - 由于2345为正数，计算机可以直接用原码储存
     - 2345的源码为 0000\\0000\\0000\0000\0000\\1001\\0010\\1001
     - 换算成十六进制每8位组成一个字节的数据为：00\\00\\09\\29
@@ -77,7 +77,7 @@ int main() {
     }
     ```
     
-  - ![image-20200318095117138](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318095117138.png)
+  - ![image-20200318095117138](../assess/image-20200318095117138.png)
 
 - b如果原来的数据是有符号类型，使用%u打印也是有符号类型吗
 
@@ -95,13 +95,13 @@ int main() {
     }
     ```
 
-  - ![image-20200318100507217](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318100507217.png)
+  - ![image-20200318100507217](../assess/image-20200318100507217.png)
 
-  - 此时m在内存中为<img src="C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318100156830.png" alt="image-20200318100156830" style="zoom:33%;" />
+  - 此时m在内存中为<img src="../assess/image-20200318100156830.png" alt="image-20200318100156830" style="zoom:33%;" />
 
   - 换成大端法为：ff\\ff\\80\\03
 
-  - <img src="C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318100335797.png" alt="image-20200318100335797" style="zoom:50%;" />
+  - <img src="../assess/image-20200318100335797.png" alt="image-20200318100335797" style="zoom:50%;" />
 
   - 用计算器可以换算成4294934531，和输出相符，所以这里是直接将有符号类型按照整数型处理。
 
@@ -132,7 +132,7 @@ int main() {
 }
 ```
 
-![image-20200318092319910](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318092319910.png)
+![image-20200318092319910](../assess/image-20200318092319910.png)
 
 
 
@@ -151,7 +151,7 @@ int main() {
 }
 ```
 
-![image-20200318092751189](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318092751189.png)
+![image-20200318092751189](../assess/image-20200318092751189.png)
 
 
 
@@ -170,7 +170,7 @@ int main() {
   }
   ```
 
-- ![image-20200317234018301](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200317234018301.png)
+- ![image-20200317234018301](../assess/image-20200317234018301.png)
 
 ## 9.设计程序验证：
 
@@ -192,17 +192,17 @@ int main() {
     }
     ```
 
-  - ![image-20200318004311954](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318004311954.png)
+  - ![image-20200318004311954](../assess/image-20200318004311954.png)
 
   - 在内存中 
 
-    -  int类型：<img src="C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318004436890.png" alt="image-20200318004436890" style="zoom:33%;" />
-    -  short类型：<img src="C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318004511075.png" alt="image-20200318004511075" style="zoom:33%;" />
+    -  int类型：<img src="../assess/image-20200318004436890.png" alt="image-20200318004436890" style="zoom:33%;" />
+    -  short类型：<img src="../assess/image-20200318004511075.png" alt="image-20200318004511075" style="zoom:33%;" />
 
   - 反过来则不会溢出 内存中变化如下
 
-    - int类型：<img src="C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318005058458.png" alt="image-20200318005058458" style="zoom:33%;" />
-    - short类型：<img src="C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318005042509.png" alt="image-20200318005042509" style="zoom:33%;" />
+    - int类型：<img src="../assess/image-20200318005058458.png" alt="image-20200318005058458" style="zoom:33%;" />
+    - short类型：<img src="../assess/image-20200318005042509.png" alt="image-20200318005042509" style="zoom:33%;" />
 
 - int类型强制类型转换成float类型，变量（正数、负数）的内存里面会发生什么变化？反过来呢？
   
@@ -224,9 +224,9 @@ int main() {
   
       - 
   
-      - int类型：<img src="C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318093210161.png" alt="image-20200318093210161" style="zoom:33%;" />
+      - int类型：<img src="../assess/image-20200318093210161.png" alt="image-20200318093210161" style="zoom:33%;" />
   
-      - float类型：<img src="C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318093239424.png" alt="image-20200318093239424" style="zoom:33%;" />
+      - float类型：<img src="../assess/image-20200318093239424.png" alt="image-20200318093239424" style="zoom:33%;" />
   
       - 可以看到因为溢出int的值丢失了
   
@@ -246,6 +246,6 @@ int main() {
         }
         ```
   
-      - int类型：<img src="C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318093802828.png" alt="image-20200318093802828" style="zoom:33%;" />
+      - int类型：<img src="../assess/image-20200318093802828.png" alt="image-20200318093802828" style="zoom:33%;" />
   
-      - float类型：<img src="C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200318093748841.png" alt="image-20200318093748841" style="zoom:33%;" />
+      - float类型：<img src="../assess/image-20200318093748841.png" alt="image-20200318093748841" style="zoom:33%;" />

@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\GK\Desktop\code\code-learning\day12\day7\day7\6.排序\main.c(17,18): error C2109: 下标要求数组或指针类型
+C:\Users\GK\Desktop\code\code-learning\day12\day7\day7\6.排序\main.c(21,18): error C2109: 下标要求数组或指针类型
+C:\Users\GK\Desktop\code\code-learning\day12\day7\day7\6.排序\main.c(25,18): error C2109: 下标要求数组或指针类型
+C:\Users\GK\Desktop\code\code-learning\day12\day7\day7\6.排序\main.c(29,18): error C2109: 下标要求数组或指针类型

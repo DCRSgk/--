@@ -32,9 +32,9 @@
 
 ### Ep02 链表的删除
 
-- ![image-20200327102529719](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200327102529719.png)
+- ![image-20200327102529719](../assess/image-20200327102529719.png)
 
-![image-20200327102738712](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200327102738712.png)
+![image-20200327102738712](../assess/image-20200327102738712.png)
 
 ### Ep03 链表的修改
 
@@ -97,10 +97,10 @@
 
   > - 后进先出
   > - 可以用数组实现，也可以用链表实现
-  > - ![image-20200327112036186](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200327112036186.png)
-  > - ![image-20200327114403249](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200327114403249.png)
+  > - ![image-20200327112036186](../assess/image-20200327112036186.png)
+  > - ![image-20200327114403249](../assess/image-20200327114403249.png)
 
-![image-20200327115451513](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200327115451513.png)。
+![image-20200327115451513](../assess/image-20200327115451513.png)。
 
 ### Ep06队列
 
@@ -108,7 +108,7 @@
 
 ### Ep07二叉树
 
-- ![image-20200327143551304](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200327143551304.png)
+- ![image-20200327143551304](../assess/image-20200327143551304.png)
 - ![image-20200327143641430](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200327143641430.png)
 - BFS
 - 堆排
@@ -119,12 +119,12 @@
   - 仅允许最后一层有空节点且空缺在右边
   - 对任意结点，如果其右子树的深度为j，则其左子树的深度必为j或j+1。度为1 的点只有1个或0个
 
-![image-20200327144343938](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200327144343938.png)
+![image-20200327144343938](../assess/image-20200327144343938.png)
 
 - 如何正确的分析前序遍历
 
   > - 根+左+右的顺序输出
-  > - ![image-20200327145745405](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200327145745405.png)
+  > - ![image-20200327145745405](../assess/image-20200327145745405.png)
   > - ABD HIE  JCFG 
 
 - 中序遍历
@@ -133,4 +133,4 @@
 
 ![image-20200327151616238](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200327151616238.png)
 
-![image-20200327152858907](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200327152858907.png)
+![image-20200327152858907](../assess/image-20200327152858907.png)

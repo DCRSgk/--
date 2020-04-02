@@ -133,11 +133,11 @@
   >
   > - 增删查改：//晚上重新听 头插法
   >
-  > - ![image-20200326115116240](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200326115116240.png)
+  > - ![image-20200326115116240](../assess/image-20200326115116240.png)
   >
   > - 
   >
-  > - ![image-20200326115816521](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200326115816521.png)
+  > - ![image-20200326115816521](../assess/image-20200326115816521.png)
   >
   > - ```c++
   >   int main()
@@ -151,13 +151,13 @@
   >
   > - 
 
-![image-20200326144259535](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200326144259535.png)
+![image-20200326144259535](../assess/image-20200326144259535.png)
 
-![image-20200326145643952](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200326145643952.png)
+![image-20200326145643952](../assess/image-20200326145643952.png)
 
 - 顺序插入
 
-  ![image-20200326150036070](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200326150036070.png)
+  ![image-20200326150036070](../assess/image-20200326150036070.png)
 
 - 
 

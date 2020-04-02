@@ -98,7 +98,7 @@
   }
   ```
 
-- ![image-20200323214013500](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200323214013500.png)
+- ![image-20200323214013500](../assess/image-20200323214013500.png)
 
 ### 3删除字符串中指定的字符。 例如 “abcdaefaghiagkl“ 删除‘a’,以后： “bcdefghigkl”
 
@@ -182,7 +182,7 @@
 
 - 
 
-- ![image-20200329114603008](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200329114603008.png)
+- ![image-20200329114603008](../assess/image-20200329114603008.png)
 
 ### 5删除句子当中的多余空格，使得单词与单词之间只有一个空格
 
@@ -211,5 +211,5 @@ using namespace std;
   }
   ```
   
-- ![image-20200329115315025](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200329115315025.png)
+- ![image-20200329115315025](../assess/image-20200329115315025.png)
 

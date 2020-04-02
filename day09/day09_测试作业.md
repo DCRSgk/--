@@ -34,7 +34,7 @@
     }
     ```
 
-  - ![image-20200325192837652](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200325192837652.png)
+  - ![image-20200325192837652](../assess/image-20200325192837652.png)
 
 - 递归方法
 
@@ -49,26 +49,30 @@
     int Factorial(int n);
     int main()
     {
+      int route(int x,int y)
+      {
+          if(x==0&&y==0)
+          {
+              return 0;
+          }
+          else if(x==0||y==0)
+          {
+              return 1;
+          }
+          else
+          {
+              return(route((x-1),y),route(x,(y-1));
+          }
+    	}
+    }
         
     
-  }
-    int route(int x,int y)
-    {
-        if(x==0&&y==0)
-        {
-            return 0;
-        }
-        else if(x==0||y==0)
-        {
-            return 1;
-        }
-        else
-        {
-            return(route((x-1),y),route(x,(y-1));
-        }
-    }
+    ```
+  
+  
         
     ```
     
   - 
+    ```
 

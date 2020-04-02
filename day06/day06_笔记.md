@@ -118,7 +118,7 @@
   >
   > - 数组在传递的时候  需要传递长度
   >
-  > - <img src="C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200321110226010.png" alt="image-20200321110226010" style="zoom: 67%;" />
+  > - <img src="../assess/image-20200321110226010.png" alt="image-20200321110226010" style="zoom: 67%;" />
   >
   > - 字符数组
   >

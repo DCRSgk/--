@@ -52,7 +52,7 @@
 
 ### 2 蛇形遍历方阵，输入一个整数，按照图示的方式填充一个n*n的方阵
 
-![img](file:///C:\Users\GK\AppData\Local\Temp\ksohtml20676\wps1.jpg) 
+![img](../assess/wps1.jpg) 
 
 - ```c++
   //实在是想不出来怎么写 把自己的思路写在这里吧。希望老师指正
@@ -65,6 +65,45 @@
   //向下走到15	(14~15)		1格
   //最后走到16	(15~16)		1格
   // 0的时候出循环？
+  ```
+
+- ```c++
+  #include<iostream>
+  #include<csdtio>
+  using namespace std;
+  int main()
+  {
+      int arr[100][100];
+  int val=0;
+  int n=3;
+  for(int m=o,k=m-1;m<=k;++m,--k)
+  {
+      for(int i=m,j=m;j<=k;++j)
+      {
+          arr[i][j]=val++;
+      }
+      for(int i=m+1,j=k;i<=k;++i)
+      {
+         arr[i][j]=val++;
+      }
+      for(int i=k,j=k-1;j>=m;--j)
+      {
+          arr[i][j]=val++;
+      }
+      for(int i=k-1,j=m;i>=m+1;--i)
+      {
+          arr[i][j]=val++;
+      }
+  }
+  for(int i=0;i<n;i++)
+  {
+      for(int j=0;j<n;j++)
+      {
+          printf("%4d",arr[i][j]);
+      }
+      cout<<endl;
+  }
+  }
   ```
 
 - 

@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\GK\Desktop\code\code-learning\day16\day16_笔记代码\fprintf\main.cpp(12,36): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\GK\Desktop\code\code-learning\day16\day16_笔记代码\fprintf\main.cpp(15,7): warning C4101: “buf”: 未引用的局部变量
+C:\Users\GK\Desktop\code\code-learning\day16\day16_笔记代码\fprintf\main.cpp(16,6): warning C4101: “ret”: 未引用的局部变量
+  fprintf.vcxproj -> C:\Users\GK\Desktop\code\code-learning\day16\day16_笔记代码\Debug\fprintf.exe

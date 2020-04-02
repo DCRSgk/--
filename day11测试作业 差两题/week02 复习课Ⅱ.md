@@ -79,7 +79,7 @@
   >     >
   >     > - 则进行尾插法
   >
-  > - ![image-20200327161854010](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200327161854010.png)
+  > - ![image-20200327161854010](../assess/image-20200327161854010.png)
 
 - 链表的删除
 

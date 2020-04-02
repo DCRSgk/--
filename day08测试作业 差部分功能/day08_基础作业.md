@@ -32,7 +32,7 @@
   }
   ```
 
-![image-20200324191551902](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200324191551902.png)
+![image-20200324191551902](../assess/image-20200324191551902.png)
 
 ### 2 整理二维数组和二级指针的使用场景
 

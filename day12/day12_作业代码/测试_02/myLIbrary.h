@@ -5,7 +5,7 @@
 #include<cstdlib>
 #include<string>
 #include <time.h>
-constexpr auto N = 20000000;
+constexpr auto N = 20;
 using namespace std;
 void shellSort(int* arr);
 int partition(int* arr, int left, int right);

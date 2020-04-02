@@ -64,9 +64,7 @@
   > - gitee管理代码：先pull在push
   > - 遇事不决，删光克隆。
   > - ~~说得好我选择用GitHub~~
-  > - ~~地铁站都比我努力~~
-  >
-  >   [<img src="http://b182.photo.store.qq.com/psb?/3dee733b-7015-414a-93c1-bebd2cc3eaa0/OjBNtIb2JfcBAbQmmWn*Pi8nNgEypiT77HJUG56n85E!/c/dLYAAAAAAAAA&amp;bo=QAL2AUAC9gERECc!&amp;rf=mood_app" alt="img" style="zoom:50%;" />](http://b182.photo.store.qq.com/psb?/3dee733b-7015-414a-93c1-bebd2cc3eaa0/OjBNtIb2JfcBAbQmmWn*Pi8nNgEypiT77HJUG56n85E!/c/dLYAAAAAAAAA&bo=QAL2AUAC9gERECc!)
+  > - ~~地铁站都比我努力![image-20200331103900937](day01_笔记.assets/image-20200331103900937.png)
 
 + ##### C阶段大纲：2/10 低难度但是很重要
 	

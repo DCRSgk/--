@@ -1,0 +1,3 @@
+﻿  测试_02.cpp
+C:\Users\GK\Desktop\code\code-learning\day13\day13_作业代码\测试_02\测试_02.cpp(13,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  测试_02.vcxproj -> C:\Users\GK\Desktop\code\code-learning\day13\day13_作业代码\Debug\测试_02.exe

@@ -69,35 +69,35 @@ void quickSort(int* arr, int left, int right)
 		quickSort(arr, pivot - 1, right);
 	}
 }
-//void quickSort2(int* arr, int left, int right)
-//{
-//	if (left >= right) return;//µÝ¹é³ö¿Ú
-//	int i, j, temp;
-//	i = left;
-//	j = right;
-//	int pivot;
-//	pivot = arr[left];
-//	while (i < j) 	//×óÓÒÉÚ±øÎÕÊÖÊ±ºòÍË³öÑ­»·
-//	{
-//		while (i < j && arr[j] >= pivot)
-//		{
-//			j--;
-//		}
-//		while (i < j && arr[i] <= pivot)
-//		{
-//			i++;
-//		}
-//		if (i < j) //swapº¯Êý
-//		{
-//			temp = arr[i];
-//			arr[i] = arr[j];
-//			arr[j] = temp;
-//		}
-//	}
-//	//ÖØÖÃÉÚ±øÖµ
-//	arr[left] = arr[i];
-//	arr[i] = pivot;
-//	quickSort2( arr, left, i - 1);
-//	quickSort2( arr,i-1, right);
-//}
-//
+void quickSort2(int* arr, int left, int right)
+{
+	if (left >= right) return;//µÝ¹é³ö¿Ú
+	int i, j, temp;
+	i = left;
+	j = right;
+	int pivot;
+	pivot = arr[i];
+	while (i < j) 	//×óÓÒÉÚ±øÎÕÊÖÊ±ºòÍË³öÑ­»·
+	{
+		while (i < j && arr[j] >= pivot)
+		{
+			j--;
+		}
+		while (i < j && arr[i] <= pivot)
+		{
+			i++;
+		}
+		if (i < j) //swapº¯Êý
+		{
+			temp = arr[i];
+			arr[i] = arr[j];
+			arr[j] = temp;
+		}
+	}
+	//ÖØÖÃÉÚ±øÖµ
+	arr[left] = arr[i];
+	arr[i] = pivot;
+	quickSort2( arr, left, i - 1);
+	quickSort2( arr,i-1, right);
+}
+

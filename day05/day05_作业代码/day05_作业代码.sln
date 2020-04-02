@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "基础_1.使用三种循环形式判断一个数是不是质数", "基础_1.使用三种循环形式判断一个数是不是质数\基础_1.使用三种循环形式判断一个数是不是质数.vcxproj", "{E32389ED-DE22-48F0-A804-07122D07F351}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "基础_01", "基础_01\基础_1.使用三种循环形式判断一个数是不是质数.vcxproj", "{E32389ED-DE22-48F0-A804-07122D07F351}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "提高_1.", "1\1.vcxproj", "{37230D24-A1EE-4049-BA2D-D3C9E71A68E9}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "提高_01", "提高_01\1.vcxproj", "{37230D24-A1EE-4049-BA2D-D3C9E71A68E9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "提高_02", "提高_02\提高_02.vcxproj", "{671B45D1-6867-43F6-8D95-541CE9444146}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{37230D24-A1EE-4049-BA2D-D3C9E71A68E9}.Release|x64.Build.0 = Release|x64
 		{37230D24-A1EE-4049-BA2D-D3C9E71A68E9}.Release|x86.ActiveCfg = Release|Win32
 		{37230D24-A1EE-4049-BA2D-D3C9E71A68E9}.Release|x86.Build.0 = Release|Win32
+		{671B45D1-6867-43F6-8D95-541CE9444146}.Debug|x64.ActiveCfg = Debug|x64
+		{671B45D1-6867-43F6-8D95-541CE9444146}.Debug|x64.Build.0 = Debug|x64
+		{671B45D1-6867-43F6-8D95-541CE9444146}.Debug|x86.ActiveCfg = Debug|Win32
+		{671B45D1-6867-43F6-8D95-541CE9444146}.Debug|x86.Build.0 = Debug|Win32
+		{671B45D1-6867-43F6-8D95-541CE9444146}.Release|x64.ActiveCfg = Release|x64
+		{671B45D1-6867-43F6-8D95-541CE9444146}.Release|x64.Build.0 = Release|x64
+		{671B45D1-6867-43F6-8D95-541CE9444146}.Release|x86.ActiveCfg = Release|Win32
+		{671B45D1-6867-43F6-8D95-541CE9444146}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

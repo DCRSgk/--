@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\Users\GK\Desktop\code\code-learning\day14\day14_笔记\qsort排指针数组\源.cpp(61,8): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\GK\Desktop\code\code-learning\day14\day14_笔记\qsort排指针数组\源.cpp(63,8): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\GK\Desktop\code\code-learning\day14\day14_笔记\qsort排指针数组\源.cpp(17,6): warning C4101: “arr”: 未引用的局部变量
+  qsort排指针数组.vcxproj -> C:\Users\GK\Desktop\code\code-learning\day14\day14_笔记\Debug\qsort排指针数组.exe

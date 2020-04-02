@@ -44,7 +44,7 @@ int main() {
 }
 ```
 
-![image-20200317205939190](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200317205939190.png)
+![image-20200331104011399](../assess/image-20200331104011399.png)
 
 ## 2.a打印菱形
 
@@ -85,7 +85,7 @@ int main() {
 }
 ```
 
-![image-20200317210041752](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200317210041752.png)
+![image-20200317210041752](../assess/image-20200317210041752.png)
 
 ## 2.b 打印空心菱形
 
@@ -128,7 +128,7 @@ int main() {
 }
 ```
 
-![image-20200317210132461](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200317210132461.png)
+![image-20200317210132461](../assess/image-20200317210132461.png)
 
 ## 2.c 打印心型
 
@@ -180,7 +180,7 @@ int main() {
 }
 ```
 
-![image-20200317210244645](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200317210244645.png)
+![image-20200317210244645](../assess/image-20200317210244645.png)
 
 ## 3 a 求两个有序数组的公共元素
 
@@ -295,7 +295,7 @@ int Max(int a, int b, int c) {
 
 ## 3.c求n个有序数组的公共元素
 
-想不出解决n个的办法  归纳不出封装函数解决问题
+
 
 ## 4.求数组的最大值和次大值
 
@@ -332,6 +332,8 @@ int main() {
 
 ## 5.给定一个n个整型元素的数组a，其中有一个元素出现次数超过n / 2，求这个元素
 
+- 修改前
+
 ```c++
 #include<iostream>	  	  //直接用排序做的
 #include<vector>		  //对数组排序  
@@ -361,6 +363,15 @@ int main() {
 	return 0;
 }
 ```
+
+- 修改后：
+
+  - ```c++
+    //计数排序
+    
+    ```
+
+  - 
 
 ## 6.给定一个含有n个元素的整型数组，找出数组中的两个元素x和y使得abs(x - y)值最小
 

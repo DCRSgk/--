@@ -118,7 +118,7 @@
   > - 定义：基类型 *指针名
   >   - 指针的数据类型由基类型决定
   >   - 解引用、间接访问的空间大小和解释方式
-  >     - 解引用：dereferencing the variable 的过程![image-20200329153847053](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200329153847053.png)
+  >     - 解引用：dereferencing the variable 的过程![image-20200329153847053](../assess/image-20200329153847053.png)
   >     - 间接访问：用指针访问变量类型
   > - 指针的偏移：
   >   - 根据指针的基类型的大小进行地址的增加/减少
@@ -141,7 +141,7 @@
 
 - 二级指针与函数指针
 
-  > - ![image-20200324145304521](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200324145304521.png)
+  > - ![image-20200324145304521](../assess/image-20200324145304521.png)
   >
   >   - | 表示形式                              | 含义                                        | 地址值     |
   >     | ------------------------------------- | ------------------------------------------- | ---------- |
@@ -186,7 +186,7 @@
   >   - 定义：基类型为指针类型的指针
   >   - 改变指针的指针
   >   - 二级指针的传递  //晚上重听
-  >   - ![image-20200324151119523](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200324151119523.png)
+  >   - ![image-20200324151119523](../assess/image-20200324151119523.png)
   >   - 改变i的值需要传入i的地址
 
 
