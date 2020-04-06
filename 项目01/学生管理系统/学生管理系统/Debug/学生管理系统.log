@@ -1,4 +1,0 @@
-﻿  list.cpp
-C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(100,41): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
-C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(67,7): warning C4101: “c”: 未引用的局部变量
-  学生管理系统.vcxproj -> C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\Debug\学生管理系统.exe

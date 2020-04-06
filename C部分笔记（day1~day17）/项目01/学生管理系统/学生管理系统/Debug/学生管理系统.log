@@ -1,0 +1,18 @@
+﻿  list.cpp
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(78,15): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(79,18): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(80,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(81,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(177,41): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(147,7): warning C4101: “c”: 未引用的局部变量
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(428,6): warning C4101: “i”: 未引用的局部变量
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(473,9): warning C4129: “P”: 不可识别的字符转义序列
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\list.cpp(475,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“int”
+  main.cpp
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\学生管理系统\main.cpp(21,6): warning C4102: “error”: 未引用的标签
+  正在生成代码...
+list.obj : error LNK2019: 无法解析的外部符号 "void __cdecl addStudentInfo(void)" (?addStudentInfo@@YAXXZ)，该符号在函数 "void __cdecl systemMenu1(void)" (?systemMenu1@@YAXXZ) 中被引用
+main.obj : error LNK2001: 无法解析的外部符号 "void __cdecl addStudentInfo(void)" (?addStudentInfo@@YAXXZ)
+    已定义且可能匹配的符号上的提示:
+      "void __cdecl addStudentInfo(struct list *)" (?addStudentInfo@@YAXPAUlist@@@Z)
+C:\Users\GK\Desktop\code\code-learning\项目01\学生管理系统\Debug\学生管理系统.exe : fatal error LNK1120: 1 个无法解析的外部命令
