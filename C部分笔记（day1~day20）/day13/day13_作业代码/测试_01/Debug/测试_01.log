@@ -1,2 +1,2 @@
 ﻿  测试_01.cpp
-  测试_01.vcxproj -> C:\Users\GK\Desktop\code\code-learning\day13\day13_笔记\day13_作业代码\Debug\测试_01.exe
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_01\测试_01.cpp(1,9): fatal error C1083: 无法打开包括文件: “myLibrary.h”: No such file or directory

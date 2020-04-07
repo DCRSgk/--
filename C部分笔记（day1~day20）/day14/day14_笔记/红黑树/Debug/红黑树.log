@@ -1,5 +1,1 @@
-﻿  源.cpp
-C:\Users\GK\Desktop\code\code-learning\day14\day14_笔记\红黑树\rbtree.h(46,9): error C3861: “search”: 找不到标识符
-C:\Users\GK\Desktop\code\code-learning\day14\day14_笔记\红黑树\rbtree.h(50,17): error C3861: “create_rbtree_node”: 找不到标识符
-C:\Users\GK\Desktop\code\code-learning\day14\day14_笔记\红黑树\rbtree.h(53,5): error C3861: “rbtree_insert”: 找不到标识符
-C:\Users\GK\Desktop\code\code-learning\day14\day14_笔记\红黑树\源.cpp(753,1): warning C4326: “main”的返回类型应为“int”而非“void”
+﻿

@@ -1,3 +1,9 @@
+# Week 01 笔记
+
+[TOC]
+
+
+
 # day1 开营仪式 && 第一节课
 
 ### Ep01  开营仪式
@@ -43,7 +49,7 @@
   >6. 不要熬夜补作业
   >7. 学习习惯
 
-### Ep02  C语言从入门到     //基础部分
+### Ep02  C语言从入门到脱发     //基础部分
 
 + ##### 写在前面→学习方法
 
@@ -69,7 +75,7 @@
   >
   > - ~~地铁站都比我努力~~
   >
-  >   [<img src="../assess/psb.jfif" alt="img" style="zoom:50%;" />](http://b182.photo.store.qq.com/psb?/3dee733b-7015-414a-93c1-bebd2cc3eaa0/OjBNtIb2JfcBAbQmmWn*Pi8nNgEypiT77HJUG56n85E!/c/dLYAAAAAAAAA&bo=QAL2AUAC9gERECc!)
+  >   <img src="Week01_笔记.assets/image-20200407101625446.png" alt="image-20200407101625446" style="zoom:50%;" />
 
 + ##### C阶段大纲：2/10 低难度但是很重要
 
@@ -186,11 +192,11 @@
   >
   > - 数据库Mysql 
   >
-  >   > - B-树  && B+树
+  >   - B-树  && B+树
   >
   > - 五种编程模型
   >
-  >   > - 处理多个文件的读写 不同思路
+  >   - 处理多个文件的读写 不同思路
   >
   > - 性能优化和负载均衡
   >
@@ -204,25 +210,21 @@
 
 - ##### C++    10/10
 
-  > 
-
   [^1]: 冒泡\\选择\\插入\\希尔\\快排\\堆\\归并\\计数
-  [^2]: 二分查找 哈希查找
+[^2]: 二分查找 哈希查找
   [^3]: 断点/单步调试/日志文件
-
+  
   
 
 # day02
 
-
-
-### Ep01 git使用
+### Ep01 git使用 （VS部分）
 
 - 先拉取再提交
 
 - ~~rm -rf从删库到跑路~~
 
-## Ep02课前预习
+### Ep02课前预习
 
 - ##### 变量
 
@@ -254,7 +256,7 @@
 
 ### Ep03 编译过程
 
-- ##### 调试办法：设置断点 || 用F10单步调试(VS逐语句)  ||  VS逐过程
+- ##### 调试办法：设置断点 || 用F10单步调试(VS逐语句)  ||  F11进入函数||逐过程调试
 
 - ##### 静态语言
 
@@ -445,7 +447,7 @@
 
 # day 03
 
-### Ep01
+### Ep01 一些运算符
 
 - ##### 缓冲区
 
@@ -579,8 +581,8 @@
   > - 一个正数最大为2^n
   > - 一个负数最大为-1(全为1的数)，最小为（首位是1剩下都是0）2^-1
   > - 小字节转换到大字节（正数补0 负数补1）  //补到day1 数据类型里
-  > - ![image-20200319155241823](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200319155241823.png)
-  > - ![image-20200319102456229](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200319102456229.png)
+  > - ![image-20200319155241823](Week01_笔记.assets/image-20200319155241823.png)
+  > - ![image-20200319102456229](Week01_笔记.assets/image-20200319102456229.png)
 
 - ##### 浮点数规范
 
@@ -655,7 +657,7 @@
 
   - 按位异或
 
-  - ![](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200319105607798.png)
+  - ![](Week01_笔记.assets/image-20200319105607798.png)
 
   - 
 
@@ -684,7 +686,7 @@
 
 - ##### 赋值运算
 
-  ![image-20200319111449343](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200319111449343.png)
+  ![image-20200319111449343](Week01_笔记.assets/image-20200319111449343.png)
 
   - ```c++
     char a;
@@ -737,7 +739,7 @@
       }
       ```
 
-  - ![image-20200319143944407](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200319143944407.png)
+  - ![image-20200319143944407](Week01_笔记.assets/image-20200319143944407.png)
 
     - 此处 i 的值为-1  j 的值为0 （++的优先级和 ！优先级相同  从右至左顺序计算）
     - 函数传参是时候  禁止使用++/--  容易让人抠抠脑壳
@@ -879,7 +881,7 @@
   - 在C里不检查数组越界
   - 拷贝时候只拷贝首地址（数组指针）
   - 数组的数组
-    - 二维数组![image-20200320102623026](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200320102623026.png)
+    - 二维数组![image-20200320102623026](Week01_笔记.assets/image-20200320102623026.png)
 
 ### Ep02 循环
 
@@ -974,7 +976,7 @@
   >
   > - 数组指针：
   >
-  >   ![image-20200320145818227](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200320145818227.png)
+  >   ![image-20200320145818227](Week01_笔记.assets/image-20200320145818227.png)
 
 - ##### 字符数组使用方法
 
@@ -1028,7 +1030,7 @@
 
 - ##### str等字符串系列函数的使用
 
-  > - ![image-20200320162426812](C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200320162426812.png)
+  > - ![image-20200320162426812](Week01_笔记.assets/image-20200320162426812.png)
   >
   > - srtlen( ) //求长度
   >
@@ -1060,7 +1062,6 @@
 
 - ##### 数组&&指针
 
-  > 
 
 ### Ep02 数组Ⅱ
 
@@ -1174,7 +1175,7 @@
   >
   > - 数组在传递的时候  需要传递长度
   >
-  > - <img src="C:\Users\GK\AppData\Roaming\Typora\typora-user-images\image-20200321110226010.png" alt="image-20200321110226010" style="zoom: 67%;" />
+  > - <img src="Week01_笔记.assets/image-20200321110226010.png" alt="image-20200321110226010" style="zoom: 67%;" />
   >
   > - 字符数组
   >

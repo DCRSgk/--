@@ -1,0 +1,2 @@
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\Debug\基础_01.exe.lastcodeanalysissucceeded
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\基础_01\Debug\NativeCodeAnalysis.read.1.tlog

@@ -249,3 +249,5 @@ int main() {
       - int类型：<img src="../assess/image-20200318093802828.png" alt="image-20200318093802828" style="zoom:33%;" />
   
       - float类型：<img src="../assess/image-20200318093748841.png" alt="image-20200318093748841" style="zoom:33%;" />
+      
+      - +++++++++++++++++++++

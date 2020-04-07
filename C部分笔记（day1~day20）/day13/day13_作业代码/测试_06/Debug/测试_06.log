@@ -1,2 +1,17 @@
-﻿  List.cpp
-  测试_06.vcxproj -> C:\Users\GK\Desktop\code\code-learning\day13\day13_作业代码\Debug\测试_06.exe
+﻿  06main.cpp
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\06main.cpp(11,17): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\06main.cpp(11,17): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\06main.cpp(11,17): message : 缺失的可变参数 2 为格式字符串“%c”所需
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\06main.cpp(11,17): message : 此参数用作缓冲区大小
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\06main.cpp(19,17): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\06main.cpp(19,17): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\06main.cpp(19,17): message : 缺失的可变参数 2 为格式字符串“%c”所需
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\06main.cpp(19,17): message : 此参数用作缓冲区大小
+  List.cpp
+  正在编译...
+  正在生成代码...
+  测试_06.vcxproj -> C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\Debug\测试_06.exe
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\06main.cpp(11): warning C6064: 缺少“scanf_s”的整型参数(对应于转换说明符“2”)。
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\06main.cpp(19): warning C6064: 缺少“scanf_s”的整型参数(对应于转换说明符“2”)。
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\List.cpp(6): warning C6011: 取消对 NULL 指针“pNew”的引用。
+C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\List.cpp(22): warning C6011: 取消对 NULL 指针“pNew”的引用。

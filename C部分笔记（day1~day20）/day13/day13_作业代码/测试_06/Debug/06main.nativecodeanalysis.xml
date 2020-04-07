@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\</FILEPATH>
+      <FILENAME>06main.cpp</FILENAME>
+      <LINE>11</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>6064</DEFECTCODE>
+    <DESCRIPTION>缺少“scanf_s”的整型参数(对应于转换说明符“2”)。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\GK\Desktop\code\code-learning\C部分笔记（day1~day20）\day13\day13_作业代码\测试_06\</FILEPATH>
+      <FILENAME>06main.cpp</FILENAME>
+      <LINE>19</LINE>
+      <COLUMN>15</COLUMN>
+    </SFA>
+    <DEFECTCODE>6064</DEFECTCODE>
+    <DESCRIPTION>缺少“scanf_s”的整型参数(对应于转换说明符“2”)。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>2</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

@@ -1,6 +1,1 @@
-﻿  01main.cpp
-C:\Users\GK\Desktop\code\code-learning\day14\day14_作业代码\提高01\01main.cpp(7,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-C:\Users\GK\Desktop\code\code-learning\day14\day14_作业代码\提高01\01main.cpp(9,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-C:\Users\GK\Desktop\code\code-learning\day14\day14_作业代码\提高01\01main.cpp(8,16): warning C4101: “end”: 未引用的局部变量
-C:\Users\GK\Desktop\code\code-learning\day14\day14_作业代码\提高01\01main.cpp(8,9): warning C4101: “start”: 未引用的局部变量
-  提高01.vcxproj -> C:\Users\GK\Desktop\code\code-learning\day14\day14_作业代码\Debug\提高01.exe
+﻿
