@@ -1,6 +1,6 @@
 # Linux 从入门到~~rm-rf到扛着高铁跑路~~
 
-
+[TOC]
 
 ### Ep01写在前面
 
@@ -187,6 +187,7 @@
 - `git push origin master`
 
   - push
+  - 
 
 - 此处如果要推送到别的分支 修改分支名
 
